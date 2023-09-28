@@ -2,11 +2,9 @@ Este é o exemplo de um ficheiro de texto file3
 
 Foram acrescentadas algumas linha no file 3
 
-<h2>Comidas</h2>
+<h2>Bebidas</h2>
 <ul>
-    <li>Bolos</li>
-    <li>Tostas</li>
-    <li>Sandes</li>
+	<li>Cola<li>
 </ul>
 
-~
+

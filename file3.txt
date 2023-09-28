@@ -4,9 +4,7 @@ Foram acrescentadas algumas linha no file 3
 
 <h2>Bebidas</h2>
 <ul>
-    <li>Coffee</li>
-    <li>Tea</li>
-    <li>Milk</li>
+	<li>Cola<li>
 </ul>
 
-~
+
